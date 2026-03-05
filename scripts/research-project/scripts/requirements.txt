@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+markdownify
+playwright
+python-slugify
+aiohttp
+aiofiles
